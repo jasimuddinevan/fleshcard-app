@@ -27,7 +27,7 @@ A modern, intuitive flashcard application built with React Native and Expo, desi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/flashcards.git
+git clone git@github.com:jasimuddinevan/fleshcard-app.git
 ```
 
 2. Install dependencies:
