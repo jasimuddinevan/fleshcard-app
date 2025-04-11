@@ -1,6 +1,6 @@
 # 📱 Flashcards - Your Smart Study Companion
 
-![Flashcards App Banner](https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=400&fit=crop)
+![Flashcards App Banner](https://i.postimg.cc/dtypWBWr/image.png400&fit=crop)
 
 A modern, intuitive flashcard application built with React Native and Expo, designed to revolutionize your learning experience. Whether you're studying for exams, learning a new language, or mastering any subject, Flashcards makes the process efficient and enjoyable.
 
