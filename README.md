@@ -77,14 +77,13 @@ Full Stack Developer | React Native Expert
 
 Connect with me:
 - [Facebook](https://www.facebook.com/jasimuddinevan)
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/jasimuddinevan)
 
 ## 📸 Screenshots
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?w=300" alt="Home Screen" width="300"/>
-  <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=300" alt="Study Mode" width="300"/>
-  <img src="https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=300" alt="Statistics" width="300"/>
+  <img src="https://i.postimg.cc/qvZKzsTD/image.png" alt="Home Screen" width="500"/>
+  
 </div>
 
 ## 🌟 Future Plans
