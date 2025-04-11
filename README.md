@@ -2,6 +2,8 @@
 
 ![Flashcards App Banner](https://i.postimg.cc/dtypWBWr/image.png400&fit=crop)
 
+[Live link](https://animated-clafoutis-bf86b2.netlify.app/)
+
 A modern, intuitive flashcard application built with React Native and Expo, designed to revolutionize your learning experience. Whether you're studying for exams, learning a new language, or mastering any subject, Flashcards makes the process efficient and enjoyable.
 
 ## ✨ Features
